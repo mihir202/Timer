@@ -1,2 +1,2 @@
 # Timer
-Timer App
+Timer iOS App
